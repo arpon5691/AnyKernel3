@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=phoenix by arponsarkar@xda
+kernel.string=MaxedUpKernel by arponsarkar@xda
 do.devicecheck=1
 do.modules=0
 do.systemless=1
